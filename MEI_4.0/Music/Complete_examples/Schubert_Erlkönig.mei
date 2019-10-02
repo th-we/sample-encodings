@@ -329,19 +329,19 @@
               </staff>
               <staff n="2" xml:id="m2_s2">
                 <layer>
-                  <bTrem unitdur="1">
+                  <bTrem unitdur="8">
                     <chord stem.dir="up" stem.mod="1slash" xml:id="m2_s2_c1">
                       <note pname="g" oct="3" dur="4" dots="1"/>
                       <note pname="g" oct="4" dur="4" dots="1"/>
                     </chord>
                   </bTrem>
-                  <bTrem unitdur="1">
+                  <bTrem unitdur="8">
                     <chord copyof="#m2_s2_c1"/>
                   </bTrem>
-                  <bTrem unitdur="1">
+                  <bTrem unitdur="8">
                     <chord copyof="#m2_s2_c1"/>
                   </bTrem>
-                  <bTrem unitdur="1">
+                  <bTrem unitdur="8">
                     <chord copyof="#m2_s2_c1"/>
                   </bTrem>
                 </layer>
